@@ -6,5 +6,4 @@
 // undefiend => value not assigned it's type is undefiend
 // symbol => unique character
 
-
-// object 
+// object
